@@ -4,7 +4,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Changing stoof</title>
+<title>Gadgets</title>
 <link rel="stylesheet" href="main.css">
 </head>
 
@@ -12,7 +12,7 @@
 	<div id="big_wrapper">
 
 
-	<header id="header">Gadget</header>
+	<header id="header">VCDEP is awesome</header>
 	<!-- Displaying the navigation bar -->
 	<nav id="navigation">
 		<ul>Home</ul>
