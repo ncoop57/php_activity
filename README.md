@@ -2,7 +2,7 @@
 
 ## Overview
 This repository comprises the PHP activity designed to be used in tandem with
-the VCDEP system, which you can find here. This PHP project is an ecommerce
+the VCDEP system, which you can find <a target="_blank" href="https://github.com/vcdep/vcdep_setup">here</a>. This PHP project is an ecommerce
 website for technology gadgets like laptops, phones, smart devices, etc. We
 have included a baseline project complete with test cases for Unit and
 Integration Testing. This style of project is very useful as a teaching tool
